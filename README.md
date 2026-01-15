@@ -4,6 +4,8 @@ Show your Hytale activity on Discord!
 
 ![Discord RPC Preview](assets/rpc.png)
 
+![Menu Bar Preview](assets/image2.png)
+
 ## Download
 
 **[Download for macOS](https://github.com/bas3line/hytale-rpc/releases/latest)** - Get `HytaleRPC.dmg`
