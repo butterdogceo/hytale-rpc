@@ -18,5 +18,5 @@ HYTALE_PROCESS_NAMES = [
 
 DISCORD_PROCESS_NAMES = [
     "discord", "discord.exe", "discordcanary", "discordcanary.exe",
-    "discordptb", "discordptb.exe",
+    "discordptb", "discordptb.exe", "vesktop", "vesktop.exe"
 ]
