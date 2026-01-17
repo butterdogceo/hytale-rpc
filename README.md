@@ -10,9 +10,9 @@ Show your Hytale activity on Discord!
 
 | Platform | Download | File |
 |----------|----------|------|
-| macOS | [Download](https://github.com/bas3line/hytale-rpc/releases/download/latest/HytaleRPC.dmg) | `HytaleRPC.dmg` |
-| Windows | [Download](https://github.com/bas3line/hytale-rpc/releases/download/latest/HytaleRPC.exe) | `HytaleRPC.exe` |
-| Linux | [Download](https://github.com/bas3line/hytale-rpc/releases/download/latest/HytaleRPC) | `HytaleRPC` |
+| macOS | [Download](https://github.com/butterdogceo/hytale-rpc/releases/download/latest/HytaleRPC.dmg) | `HytaleRPC.dmg` |
+| Windows | [Download](https://github.com/butterdogceo/hytale-rpc/releases/download/latest/HytaleRPC.exe) | `HytaleRPC.exe` |
+| Linux | [Download](https://github.com/butterdogceo/hytale-rpc/releases/download/latest/HytaleRPC) | `HytaleRPC` |
 
 ## How to Use
 
